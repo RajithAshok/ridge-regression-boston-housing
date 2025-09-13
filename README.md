@@ -18,7 +18,8 @@ This project builds a machine learning model to predict Boston housing prices us
 
 Example terminal output showing best ridge alpha selected and model performance metrics:
 
-<img width="279" height="70" alt="TerminalLog" src="https://github.com/user-attachments/assets/a851cf4b-b9c6-4c06-a62a-d83c1278d5fa" />
+<img width="426" height="107" alt="TerminalOutput" src="https://github.com/user-attachments/assets/c7903cc3-3da5-4b57-9fbb-2ec3d006e1c1" />
+
 
 
 ---
@@ -39,7 +40,7 @@ Visualization comparing true house prices against the model's predicted values o
 ```
 pip install numpy matplotlib scikit-learn
 ```
-3. Run the `boston_housing.py` script.
+3. Run the `boston_housing.ipynb` notebook.
 
 ---
 
