@@ -27,7 +27,7 @@ Example terminal output showing best ridge alpha selected and model performance 
 
 Visualization comparing true house prices against the model's predicted values on the test set:
 
-<img width="872" height="493" alt="TrueVsPredictedPlot" src="https://github.com/user-attachments/assets/b9c072df-648c-4359-9c2f-b31ae0c0aeaa" />
+<img width="600" height="400" alt="TrueVsPredictedPlot" src="https://github.com/user-attachments/assets/b9c072df-648c-4359-9c2f-b31ae0c0aeaa" />
 
 
 ---
@@ -39,7 +39,7 @@ Visualization comparing true house prices against the model's predicted values o
 ```
 pip install numpy matplotlib scikit-learn
 ```
-3. Run the script `boston_housing.py`.
+3. Run the `boston_housing.py` script.
 
 ---
 
